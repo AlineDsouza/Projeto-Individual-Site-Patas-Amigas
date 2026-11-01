@@ -11,6 +11,8 @@ O objetivo é apresentar animais disponíveis para adoção e facilitar o contac
 ## 🌐 Pré-visualização
 
 Acede ao site: [Patas Amigas – Ver website](LINK_DO_SITE)
+<img width="1920" height="2502" alt="screencapture-file-C-Users-aline-OneDrive-Documentos-001CESAE-SD-Projeto-Individual-Site-Patas-Amigas-index-html-2026-11-01-12_37_16" src="https://github.com/user-attachments/assets/0c008b1c-93a1-4a8c-9d25-c50933ac1ed8" />
+
 
 ## Tecnologias utilizadas
 
